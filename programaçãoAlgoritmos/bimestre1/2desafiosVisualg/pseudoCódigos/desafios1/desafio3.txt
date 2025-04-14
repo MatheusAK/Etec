@@ -1,0 +1,30 @@
+algoritmo "semnome"
+// Função :Desenvolver um programa em formato pseudocódigo para calcular
+// a média dos alunos com base em 4 notas. Ao final, mostrar a média calculada.
+// Autor :
+// Data : 12/03/2025
+// Seção de Declarações 
+var
+nota1: real
+nota2: real
+nota3: real
+nota4: real
+media: real
+inicio
+// Seção de Comandos 
+//Entrada de dados
+escreval ("insira a primeira nota: ")
+leia (nota1)
+escreval ("insira a segunda nota: ")
+leia (nota2)
+escreval ("insira a terceira nota: ")
+leia (nota3)
+escreval ("insira a quarta nota: ")
+leia (nota4)
+//processamento de dados
+media <- (nota1 + nota2 + nota3 + nota4)/ 4
+
+// saída de dados
+
+escreval ("Sua média é: ", media)
+fimalgoritmo

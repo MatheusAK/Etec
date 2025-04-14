@@ -1,0 +1,20 @@
+algoritmo "semnome"
+// Função :   Desenvolver um programa para realizar a conversão da temperatura.
+// O usuário irá digitar a temperatura em graus Célsius e o programa exibe
+// o valor em graus Fahrenheit. A conversão é dada pela fórmula: (9* C + 160)/5.
+// Autor :
+// Data : 12/03/2025
+// Seção de Declarações 
+var
+celsius: real
+fahrenheit: real
+inicio
+// Seção de Comandos
+// Entrada de dados
+escreval ("escreva a temperatura em graus célsius: ")
+leia (celsius)
+// Processamento de dados
+fahrenheit <- (9 * celsius + 160) / 5
+// Saída de dados
+escreval (celsius, "C° em graus farenheit é: ", fahrenheit, "F°")
+fimalgoritmo

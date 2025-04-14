@@ -1,0 +1,24 @@
+algoritmo "semnome"
+// Função : Desenvolver um programa para receber o nome,
+// a idade e altura de um paciente. Ao final mostrar os valores digitados.
+// Autor :
+// Data : 12/03/2025
+// Seção de Declarações 
+var
+nome: caracter
+idade: inteiro
+altura: real
+inicio
+// Seção de Comandos 
+//Entrada de dados
+escreval ("Digite seu nome: ")
+leia (nome)
+escreval ("Digite sua idade: ")
+leia(idade)
+escreval ("Digite sua altura em metros: ")
+leia(altura)
+//Saída de dados
+escreval("nome: ", nome)
+escreval("idade: ", idade)
+escreval("altura(metros): ", altura)
+fimalgoritmo

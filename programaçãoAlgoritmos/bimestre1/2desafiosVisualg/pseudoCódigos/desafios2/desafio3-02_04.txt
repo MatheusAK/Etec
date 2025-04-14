@@ -1,0 +1,35 @@
+algoritmo "semnome"
+// Função :
+// Autor :
+// Data : 02/04/2025
+// Seção de Declarações 
+var
+id: caracter
+idPeca: caracter
+precoPeca: real
+qtdPeca: inteiro
+total: real
+comissao: real
+inicio
+// Seção de Comandos
+//entrada
+escreval("insira seu identificador: ")
+leia(id)
+escreval("insira o identificador da peça: ")
+leia(idPeca)
+escreval("insira o preço da peça: ")
+leia(precoPeca)
+escreval("insira a quantidade de peças: ")
+leia(qtdPeca)
+
+//processamento
+total <- precoPeca * qtdPeca
+comissao <- total * 0.05
+
+//saída
+escreval("ID da peça: ", idPeca)
+escreval ("Preço da peça: ", precoPeca, " reais")
+escreval ("quantidade de peças: ", qtdPeca)
+escreval ("Valor total: ", total, " reais")
+escreval ("Comissão do funcionário ", comissao, " reais")
+fimalgoritmo

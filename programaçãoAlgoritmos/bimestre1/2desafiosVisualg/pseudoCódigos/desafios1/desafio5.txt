@@ -1,0 +1,23 @@
+algoritmo "semnome"
+// Função :
+// Autor :
+// Data : 19/03/2025
+// Seção de Declarações 
+var
+stqMin: inteiro
+stqMax: inteiro
+stqMedio: real
+inicio
+// Seção de Comandos
+//Entrada de dados
+escreval("digite o estoque mínimo")
+leia (stqMin)
+escreval ("digite o estoque máximo")
+leia (stqMax)
+
+//processamento
+stqMedio <- (stqMin + stqMax)/2
+
+//Saída
+escreval ("o estoque médio é: ", stqMedio)
+fimalgoritmo

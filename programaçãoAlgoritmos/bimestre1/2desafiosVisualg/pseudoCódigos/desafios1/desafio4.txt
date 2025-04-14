@@ -1,0 +1,26 @@
+algoritmo "semnome"
+// Função :
+// Autor :
+// Data : 19/03/2025
+// Seção de Declarações 
+var
+base: real
+altura: real
+largura: real
+volume: real
+inicio
+//entrada de dados
+escreval ("Escreva a base da caixa (em metros)")
+leia (base)
+escreval ("Escreva a altura da caixa (em metros)")
+leia (altura)
+escreval ("Escreva a largura da caixa (em metros)")
+leia (largura)
+
+//processamento de dados
+volume <- base * altura * largura
+
+//saída de dados
+escreval("O volume da caixa é ", volume, "m³")
+
+fimalgoritmo

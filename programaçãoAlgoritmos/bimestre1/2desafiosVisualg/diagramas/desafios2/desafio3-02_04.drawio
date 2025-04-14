@@ -1,0 +1,100 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.2.4">
+  <diagram name="Page-1" id="m210ipgFVxLh-3GpmfsF">
+    <mxGraphModel dx="2040" dy="1061" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="fKifW9q7_1_C8beoyEvJ-1" value="&lt;div style=&quot;box-sizing: border-box; font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, system-ui, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, sans-serif; text-align: left; border-radius: 0px !important;&quot;&gt;&lt;font&gt;3 - Calcular a Comissão do Vendedor&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;box-sizing: border-box; font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, system-ui, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, sans-serif; text-align: left; border-radius: 0px !important;&quot;&gt;&lt;font&gt;Considere o seguinte problema. Uma loja de peças possui quantidades e tipos variados de peças. Ela quer motivar seus vendedores dando uma comissão de 5% sobre as vendas totais desse vendedor.&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;box-sizing: border-box; font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, system-ui, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, sans-serif; text-align: left; border-radius: 0px !important;&quot;&gt;&lt;font&gt;Para isso, te contratou para desenvolver um sistema que receba:&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;box-sizing: border-box; font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, system-ui, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, sans-serif; text-align: left; border-radius: 0px !important;&quot;&gt;&lt;div style=&quot;box-sizing: border-box; border-radius: 0px !important;&quot;&gt;&lt;ul style=&quot;box-sizing: border-box; margin: 12px 0px; list-style: initial; padding-top: revert; padding-right: revert; padding-bottom: revert; padding-left: 32px; border-radius: 0px !important;&quot;&gt;&lt;li style=&quot;box-sizing: border-box; list-style-type: disc; border-radius: 0px !important;&quot;&gt;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;&lt;font&gt;Identificação do Vendedor&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;box-sizing: border-box; list-style-type: disc; border-radius: 0px !important;&quot;&gt;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;&lt;font&gt;Código da Peça&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;box-sizing: border-box; list-style-type: disc; border-radius: 0px !important;&quot;&gt;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;&lt;font&gt;Preço unitário da peça&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;box-sizing: border-box; list-style-type: disc; border-radius: 0px !important;&quot;&gt;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;&lt;font&gt;Quantidade Vendida&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div style=&quot;box-sizing: border-box; border-radius: 0px !important;&quot;&gt;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;&lt;font&gt;Ao final, deverá ser mostrado na tela as seguintes informações:&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;box-sizing: border-box; border-radius: 0px !important;&quot;&gt;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;&lt;font&gt;identificação do Vendedor;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;box-sizing: border-box; border-radius: 0px !important;&quot;&gt;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;&lt;font&gt;&lt;br style=&quot;box-sizing: border-box; border-radius: 0px !important;&quot;&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;box-sizing: border-box; border-radius: 0px !important;&quot;&gt;&lt;ul style=&quot;box-sizing: border-box; margin: 12px 0px; list-style: initial; padding-top: revert; padding-right: revert; padding-bottom: revert; padding-left: 32px; border-radius: 0px !important;&quot;&gt;&lt;li style=&quot;box-sizing: border-box; list-style-type: disc; border-radius: 0px !important;&quot;&gt;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;&lt;font&gt;código da peça;&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;box-sizing: border-box; list-style-type: disc; border-radius: 0px !important;&quot;&gt;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;&lt;font&gt;preço unitário da peça;&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;box-sizing: border-box; list-style-type: disc; border-radius: 0px !important;&quot;&gt;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;&lt;font&gt;quantidade vendida;&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;box-sizing: border-box; list-style-type: disc; border-radius: 0px !important;&quot;&gt;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;&lt;font&gt;valor total da venda;&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;box-sizing: border-box; list-style-type: disc; border-radius: 0px !important;&quot;&gt;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;&lt;font&gt;comissão que o vendedor irá receber.&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontColor=default;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="30" y="10" width="410" height="610" as="geometry" />
+        </mxCell>
+        <mxCell id="fKifW9q7_1_C8beoyEvJ-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fKifW9q7_1_C8beoyEvJ-2" target="fKifW9q7_1_C8beoyEvJ-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fKifW9q7_1_C8beoyEvJ-2" value="Início" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="620" y="30" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fKifW9q7_1_C8beoyEvJ-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fKifW9q7_1_C8beoyEvJ-3" target="fKifW9q7_1_C8beoyEvJ-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fKifW9q7_1_C8beoyEvJ-3" value="id" style="shape=manualInput;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="585" y="120" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fKifW9q7_1_C8beoyEvJ-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fKifW9q7_1_C8beoyEvJ-5" target="fKifW9q7_1_C8beoyEvJ-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fKifW9q7_1_C8beoyEvJ-5" value="idPeca" style="shape=manualInput;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="585" y="210" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fKifW9q7_1_C8beoyEvJ-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fKifW9q7_1_C8beoyEvJ-6" target="fKifW9q7_1_C8beoyEvJ-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fKifW9q7_1_C8beoyEvJ-6" value="precoPeca" style="shape=manualInput;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="585" y="290" width="170" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="fKifW9q7_1_C8beoyEvJ-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fKifW9q7_1_C8beoyEvJ-7" target="fKifW9q7_1_C8beoyEvJ-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fKifW9q7_1_C8beoyEvJ-7" value="qtdPeca" style="shape=manualInput;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="585" y="380" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fKifW9q7_1_C8beoyEvJ-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fKifW9q7_1_C8beoyEvJ-12" target="fKifW9q7_1_C8beoyEvJ-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fKifW9q7_1_C8beoyEvJ-12" value="total &amp;lt;- precoPeca * qtdPeca" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="577.5" y="480" width="185" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="fKifW9q7_1_C8beoyEvJ-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fKifW9q7_1_C8beoyEvJ-17" target="fKifW9q7_1_C8beoyEvJ-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fKifW9q7_1_C8beoyEvJ-17" value="comissao &amp;lt;- total * 0.05" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="585" y="590" width="170" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="fKifW9q7_1_C8beoyEvJ-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fKifW9q7_1_C8beoyEvJ-19" target="fKifW9q7_1_C8beoyEvJ-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fKifW9q7_1_C8beoyEvJ-19" value="idPeca" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="620" y="720" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fKifW9q7_1_C8beoyEvJ-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fKifW9q7_1_C8beoyEvJ-21" target="fKifW9q7_1_C8beoyEvJ-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fKifW9q7_1_C8beoyEvJ-21" value="precoPeca" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="620" y="810" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fKifW9q7_1_C8beoyEvJ-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fKifW9q7_1_C8beoyEvJ-22" target="fKifW9q7_1_C8beoyEvJ-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fKifW9q7_1_C8beoyEvJ-22" value="qtdPeca" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="620" y="900" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fKifW9q7_1_C8beoyEvJ-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fKifW9q7_1_C8beoyEvJ-23" target="fKifW9q7_1_C8beoyEvJ-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fKifW9q7_1_C8beoyEvJ-23" value="total" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="130" y="750" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fKifW9q7_1_C8beoyEvJ-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fKifW9q7_1_C8beoyEvJ-24" target="fKifW9q7_1_C8beoyEvJ-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fKifW9q7_1_C8beoyEvJ-24" value="comissao" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="130" y="860" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fKifW9q7_1_C8beoyEvJ-30" value="Fim" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="130" y="970" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fKifW9q7_1_C8beoyEvJ-32" value="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.on-page_reference;" vertex="1" parent="1">
+          <mxGeometry x="640" y="990" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fKifW9q7_1_C8beoyEvJ-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fKifW9q7_1_C8beoyEvJ-34" target="fKifW9q7_1_C8beoyEvJ-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fKifW9q7_1_C8beoyEvJ-34" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.on-page_reference;" vertex="1" parent="1">
+          <mxGeometry x="150" y="620" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fKifW9q7_1_C8beoyEvJ-38" value="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="150" y="640" width="60" height="25" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

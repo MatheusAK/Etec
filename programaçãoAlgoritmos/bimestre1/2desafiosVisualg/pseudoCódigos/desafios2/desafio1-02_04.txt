@@ -1,0 +1,20 @@
+algoritmo "semnome"
+// Função :
+// Autor :
+// Data : 02/04/2025
+// Seção de Declarações 
+var
+cotDol: real
+dol: real
+reais: real
+inicio
+// Seção de Comandos 
+escreval("Digite a cotação atual do dólar: ")
+leia(cotDol)
+escreval("Digite quantos dólares você tem: ")
+leia(dol)
+
+reais <- dol * cotDol
+
+escreval("Você tem ", reais, " reais")
+fimalgoritmo
