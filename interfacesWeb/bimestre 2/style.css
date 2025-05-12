@@ -1,0 +1,41 @@
+div {
+    width: 500px;
+    height: 500px;
+    border: 3px solid black ;
+    text-align: center;
+    margin: auto;
+    margin-top: 20px;
+    
+}
+#container {
+    height: 3550px;
+    width: 800px;
+    background-color: rgb(233, 214, 162);
+    color: black;
+    border-radius: 0px;
+}
+#imgRedonda {
+    border-radius: 50%;
+    width: 500px;
+    height: 500px;
+}
+
+.primeira {
+    background-color: rgb(145, 121, 172);
+    border-radius: 50%;
+}
+.segunda {
+    width: 650px;
+    background-color: blue;
+}
+.terceira {
+    background-color: green;
+}
+.quarta {
+    background-color: rgb(255, 0, 0);
+    width: 680px;
+}
+.quinta {
+    background-color: rgb(255, 0, 0);
+    width: 606px;
+}
