@@ -133,8 +133,8 @@
         <mxCell id="a1a3gFf4tcjDuyw7U2Fl-44" value="diaHoje" style="shape=manualInput;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="115" y="1780" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="a1a3gFf4tcjDuyw7U2Fl-48" value="idadeDias &amp;lt;- ((anoHoje - anoNasc))" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="20" y="1890" width="350" height="160" as="geometry" />
+        <mxCell id="a1a3gFf4tcjDuyw7U2Fl-48" value="idadeDias &amp;lt;- ((anoHoje - anoNasc) * 365) + (((12 - mesNasc) + mesHoje) * 30) + (((30 - diaNasc) + diaHoje))" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="20" y="1890" width="850" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
