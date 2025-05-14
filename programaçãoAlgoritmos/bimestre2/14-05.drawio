@@ -184,6 +184,48 @@
         <mxCell id="36bbtaY0qwUrf9wniMjc-15" value="Fim" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="115" y="2790" width="100" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="36bbtaY0qwUrf9wniMjc-17" value="&lt;h3 style=&quot;box-sizing: border-box; font-size: 16px; line-height: 22px; font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, system-ui, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, sans-serif; text-align: left; border-radius: 0px !important;&quot;&gt;Exercício 5: Média ponderada de um aluno&lt;/h3&gt;&lt;h3 style=&quot;box-sizing: border-box; font-size: 16px; line-height: 22px; font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, system-ui, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, sans-serif; text-align: left; border-radius: 0px !important;&quot;&gt;&lt;ul style=&quot;box-sizing: border-box; margin: 12px 0px; list-style: initial; padding-top: revert; padding-right: revert; padding-bottom: revert; padding-left: 32px; font-size: 14px; font-weight: 400; border-radius: 0px !important;&quot;&gt;&lt;li style=&quot;box-sizing: border-box; border-radius: 0px !important;&quot;&gt;Leia 3 notas e seus respectivos pesos.&lt;/li&gt;&lt;li style=&quot;box-sizing: border-box; border-radius: 0px !important;&quot;&gt;Calcule a média ponderada usando a fórmula: (n1×p1 + n2×p2 + n3×p3) / (p1 + p2 + p3).&lt;/li&gt;&lt;li style=&quot;box-sizing: border-box; border-radius: 0px !important;&quot;&gt;&lt;span style=&quot;box-sizing: border-box; font-weight: bolder; border-radius: 0px !important;&quot;&gt;Conceitos&lt;/span&gt;: multiplicação, adição, divisão.&lt;/li&gt;&lt;/ul&gt;&lt;/h3&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=default;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="10" y="3310" width="830" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="36bbtaY0qwUrf9wniMjc-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="36bbtaY0qwUrf9wniMjc-18" target="36bbtaY0qwUrf9wniMjc-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="36bbtaY0qwUrf9wniMjc-18" value="Início" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="20" y="3520" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="36bbtaY0qwUrf9wniMjc-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="36bbtaY0qwUrf9wniMjc-19" target="36bbtaY0qwUrf9wniMjc-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="36bbtaY0qwUrf9wniMjc-19" value="nota1" style="shape=manualInput;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="3590" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="36bbtaY0qwUrf9wniMjc-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="36bbtaY0qwUrf9wniMjc-21" target="36bbtaY0qwUrf9wniMjc-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="36bbtaY0qwUrf9wniMjc-21" value="peso1" style="shape=manualInput;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="3660" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="36bbtaY0qwUrf9wniMjc-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="36bbtaY0qwUrf9wniMjc-23" target="36bbtaY0qwUrf9wniMjc-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="36bbtaY0qwUrf9wniMjc-23" value="peso2" style="shape=manualInput;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="3810" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="36bbtaY0qwUrf9wniMjc-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="36bbtaY0qwUrf9wniMjc-24" target="36bbtaY0qwUrf9wniMjc-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="36bbtaY0qwUrf9wniMjc-24" value="nota2" style="shape=manualInput;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="3740" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="36bbtaY0qwUrf9wniMjc-27" value="peso3" style="shape=manualInput;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="3960" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="36bbtaY0qwUrf9wniMjc-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="36bbtaY0qwUrf9wniMjc-29" target="36bbtaY0qwUrf9wniMjc-27" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="36bbtaY0qwUrf9wniMjc-29" value="nota3" style="shape=manualInput;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="3890" width="80" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
