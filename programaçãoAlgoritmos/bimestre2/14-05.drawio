@@ -4,137 +4,152 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="a1a3gFf4tcjDuyw7U2Fl-1" value="&lt;h3 style=&quot;box-sizing: border-box; font-size: 16px; line-height: 22px; font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, system-ui, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, sans-serif; text-align: left; border-radius: 0px !important;&quot;&gt;Exercício 1: Cálculo de Salário com Bônus&lt;/h3&gt;&lt;ul style=&quot;box-sizing: border-box; margin: 12px 0px; list-style: initial; padding-top: revert; padding-right: revert; padding-bottom: revert; padding-left: 32px; font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, system-ui, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, sans-serif; font-size: 14px; text-align: left; border-radius: 0px !important;&quot;&gt;&lt;li style=&quot;box-sizing: border-box; border-radius: 0px !important;&quot;&gt;Solicite o salário fixo e o valor das vendas.&lt;/li&gt;&lt;li style=&quot;box-sizing: border-box; border-radius: 0px !important;&quot;&gt;Calcule o salário final com uma comissão de 15% sobre as vendas.&lt;/li&gt;&lt;li style=&quot;box-sizing: border-box; border-radius: 0px !important;&quot;&gt;&lt;span style=&quot;box-sizing: border-box; font-weight: bolder; border-radius: 0px !important;&quot;&gt;Conceitos&lt;/span&gt;: porcentagem, soma.&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=default;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="a1a3gFf4tcjDuyw7U2Fl-1" value="&lt;h3 style=&quot;box-sizing: border-box; font-size: 16px; line-height: 22px; font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, system-ui, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, sans-serif; text-align: left; border-radius: 0px !important;&quot;&gt;Exercício 1: Cálculo de Salário com Bônus&lt;/h3&gt;&lt;ul style=&quot;box-sizing: border-box; margin: 12px 0px; list-style: initial; padding-top: revert; padding-right: revert; padding-bottom: revert; padding-left: 32px; font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, system-ui, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, sans-serif; font-size: 14px; text-align: left; border-radius: 0px !important;&quot;&gt;&lt;li style=&quot;box-sizing: border-box; border-radius: 0px !important;&quot;&gt;Solicite o salário fixo e o valor das vendas.&lt;/li&gt;&lt;li style=&quot;box-sizing: border-box; border-radius: 0px !important;&quot;&gt;Calcule o salário final com uma comissão de 15% sobre as vendas.&lt;/li&gt;&lt;li style=&quot;box-sizing: border-box; border-radius: 0px !important;&quot;&gt;&lt;span style=&quot;box-sizing: border-box; font-weight: bolder; border-radius: 0px !important;&quot;&gt;Conceitos&lt;/span&gt;: porcentagem, soma.&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=default;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="255" y="-1090" width="340" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="a1a3gFf4tcjDuyw7U2Fl-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="a1a3gFf4tcjDuyw7U2Fl-2" target="a1a3gFf4tcjDuyw7U2Fl-5">
+        <mxCell id="a1a3gFf4tcjDuyw7U2Fl-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="a1a3gFf4tcjDuyw7U2Fl-2" target="a1a3gFf4tcjDuyw7U2Fl-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="a1a3gFf4tcjDuyw7U2Fl-2" value="sFixo" style="shape=manualInput;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="a1a3gFf4tcjDuyw7U2Fl-2" value="sFixo" style="shape=manualInput;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="90" y="-810" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="a1a3gFf4tcjDuyw7U2Fl-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="a1a3gFf4tcjDuyw7U2Fl-3" target="a1a3gFf4tcjDuyw7U2Fl-2">
+        <mxCell id="a1a3gFf4tcjDuyw7U2Fl-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="a1a3gFf4tcjDuyw7U2Fl-3" target="a1a3gFf4tcjDuyw7U2Fl-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="a1a3gFf4tcjDuyw7U2Fl-3" value="Início" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="a1a3gFf4tcjDuyw7U2Fl-3" value="Início" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="80" y="-880" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="a1a3gFf4tcjDuyw7U2Fl-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="a1a3gFf4tcjDuyw7U2Fl-5" target="a1a3gFf4tcjDuyw7U2Fl-7">
+        <mxCell id="a1a3gFf4tcjDuyw7U2Fl-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="a1a3gFf4tcjDuyw7U2Fl-5" target="a1a3gFf4tcjDuyw7U2Fl-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="a1a3gFf4tcjDuyw7U2Fl-5" value="vVendas" style="shape=manualInput;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="a1a3gFf4tcjDuyw7U2Fl-5" value="vVendas" style="shape=manualInput;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="90" y="-730" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="a1a3gFf4tcjDuyw7U2Fl-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="a1a3gFf4tcjDuyw7U2Fl-7" target="a1a3gFf4tcjDuyw7U2Fl-9">
+        <mxCell id="a1a3gFf4tcjDuyw7U2Fl-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="a1a3gFf4tcjDuyw7U2Fl-7" target="a1a3gFf4tcjDuyw7U2Fl-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="a1a3gFf4tcjDuyw7U2Fl-7" value="sFinal &amp;lt;- sFixo + (vVendas * 0.15)" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="a1a3gFf4tcjDuyw7U2Fl-7" value="sFinal &amp;lt;- sFixo + (vVendas * 0.15)" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="20" y="-640" width="220" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="a1a3gFf4tcjDuyw7U2Fl-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="a1a3gFf4tcjDuyw7U2Fl-9" target="a1a3gFf4tcjDuyw7U2Fl-12">
+        <mxCell id="a1a3gFf4tcjDuyw7U2Fl-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="a1a3gFf4tcjDuyw7U2Fl-9" target="a1a3gFf4tcjDuyw7U2Fl-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="a1a3gFf4tcjDuyw7U2Fl-9" value="sFinal" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="a1a3gFf4tcjDuyw7U2Fl-9" value="sFinal" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="80" y="-550" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="a1a3gFf4tcjDuyw7U2Fl-11" value="&lt;h3 style=&quot;box-sizing: border-box; font-size: 16px; line-height: 22px; font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, system-ui, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, sans-serif; text-align: left; border-radius: 0px !important;&quot;&gt;Exercício 2:&lt;/h3&gt;&lt;h3 style=&quot;box-sizing: border-box; font-size: 16px; line-height: 22px; font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, system-ui, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, sans-serif; text-align: left; border-radius: 0px !important;&quot;&gt;&lt;span style=&quot;font-size: 14px; font-weight: 400;&quot;&gt;Desenvolva um algoritmo para calcular o salário total de um funcionário em um mês, levando em consideração sua jornada de trabalho semanal de 40 horas e o valor da sua hora é de R$45,00. O funcionário poderá digitar a quantidade de horas trabalhadas no mês, ou seja, pode ser que ele tenha trabalhado mais de 40hrs. Lembrando que o cálculo será com base na quantidade de horas informadas pelo funcionário e no valor da sua hora de trabalho.&lt;/span&gt;&lt;ul style=&quot;box-sizing: border-box; margin: 12px 0px; list-style: initial; padding-top: revert; padding-right: revert; padding-bottom: revert; padding-left: 32px; font-size: 14px; font-weight: 400; border-radius: 0px !important;&quot;&gt;&lt;li style=&quot;box-sizing: border-box; border-radius: 0px !important;&quot;&gt;Ao final mostrar o nome do funcionário&lt;/li&gt;&lt;li style=&quot;box-sizing: border-box; border-radius: 0px !important;&quot;&gt;A quantidade de horas trabalhadas, informadas pelo funcionário&lt;/li&gt;&lt;li style=&quot;box-sizing: border-box; border-radius: 0px !important;&quot;&gt;O valor final do seu salário.&lt;/li&gt;&lt;/ul&gt;&lt;/h3&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=default;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="a1a3gFf4tcjDuyw7U2Fl-11" value="&lt;h3 style=&quot;box-sizing: border-box; font-size: 16px; line-height: 22px; font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, system-ui, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, sans-serif; text-align: left; border-radius: 0px !important;&quot;&gt;Exercício 2:&lt;/h3&gt;&lt;h3 style=&quot;box-sizing: border-box; font-size: 16px; line-height: 22px; font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, system-ui, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, sans-serif; text-align: left; border-radius: 0px !important;&quot;&gt;&lt;span style=&quot;font-size: 14px; font-weight: 400;&quot;&gt;Desenvolva um algoritmo para calcular o salário total de um funcionário em um mês, levando em consideração sua jornada de trabalho semanal de 40 horas e o valor da sua hora é de R$45,00. O funcionário poderá digitar a quantidade de horas trabalhadas no mês, ou seja, pode ser que ele tenha trabalhado mais de 40hrs. Lembrando que o cálculo será com base na quantidade de horas informadas pelo funcionário e no valor da sua hora de trabalho.&lt;/span&gt;&lt;ul style=&quot;box-sizing: border-box; margin: 12px 0px; list-style: initial; padding-top: revert; padding-right: revert; padding-bottom: revert; padding-left: 32px; font-size: 14px; font-weight: 400; border-radius: 0px !important;&quot;&gt;&lt;li style=&quot;box-sizing: border-box; border-radius: 0px !important;&quot;&gt;Ao final mostrar o nome do funcionário&lt;/li&gt;&lt;li style=&quot;box-sizing: border-box; border-radius: 0px !important;&quot;&gt;A quantidade de horas trabalhadas, informadas pelo funcionário&lt;/li&gt;&lt;li style=&quot;box-sizing: border-box; border-radius: 0px !important;&quot;&gt;O valor final do seu salário.&lt;/li&gt;&lt;/ul&gt;&lt;/h3&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=default;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="10" y="30" width="830" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="a1a3gFf4tcjDuyw7U2Fl-12" value="Fim" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="a1a3gFf4tcjDuyw7U2Fl-12" value="Fim" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="80" y="-460" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="a1a3gFf4tcjDuyw7U2Fl-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="a1a3gFf4tcjDuyw7U2Fl-14" target="a1a3gFf4tcjDuyw7U2Fl-15">
+        <mxCell id="a1a3gFf4tcjDuyw7U2Fl-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="a1a3gFf4tcjDuyw7U2Fl-14" target="a1a3gFf4tcjDuyw7U2Fl-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="a1a3gFf4tcjDuyw7U2Fl-14" value="Início" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="a1a3gFf4tcjDuyw7U2Fl-14" value="Início" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="90" y="260" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="a1a3gFf4tcjDuyw7U2Fl-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="a1a3gFf4tcjDuyw7U2Fl-15" target="a1a3gFf4tcjDuyw7U2Fl-17">
+        <mxCell id="a1a3gFf4tcjDuyw7U2Fl-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="a1a3gFf4tcjDuyw7U2Fl-15" target="a1a3gFf4tcjDuyw7U2Fl-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="a1a3gFf4tcjDuyw7U2Fl-15" value="nome" style="shape=manualInput;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="a1a3gFf4tcjDuyw7U2Fl-15" value="nome" style="shape=manualInput;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="100" y="330" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="a1a3gFf4tcjDuyw7U2Fl-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="a1a3gFf4tcjDuyw7U2Fl-17" target="a1a3gFf4tcjDuyw7U2Fl-20">
+        <mxCell id="a1a3gFf4tcjDuyw7U2Fl-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="a1a3gFf4tcjDuyw7U2Fl-17" target="a1a3gFf4tcjDuyw7U2Fl-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="a1a3gFf4tcjDuyw7U2Fl-17" value="hrs" style="shape=manualInput;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="a1a3gFf4tcjDuyw7U2Fl-17" value="hrs" style="shape=manualInput;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="100" y="410" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="a1a3gFf4tcjDuyw7U2Fl-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="a1a3gFf4tcjDuyw7U2Fl-20" target="a1a3gFf4tcjDuyw7U2Fl-22">
+        <mxCell id="a1a3gFf4tcjDuyw7U2Fl-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="a1a3gFf4tcjDuyw7U2Fl-20" target="a1a3gFf4tcjDuyw7U2Fl-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="a1a3gFf4tcjDuyw7U2Fl-20" value="salario &amp;lt;- hrs * 45" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="a1a3gFf4tcjDuyw7U2Fl-20" value="salario &amp;lt;- hrs * 45" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="30" y="490" width="220" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="a1a3gFf4tcjDuyw7U2Fl-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="a1a3gFf4tcjDuyw7U2Fl-22" target="a1a3gFf4tcjDuyw7U2Fl-24">
+        <mxCell id="a1a3gFf4tcjDuyw7U2Fl-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="a1a3gFf4tcjDuyw7U2Fl-22" target="a1a3gFf4tcjDuyw7U2Fl-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="a1a3gFf4tcjDuyw7U2Fl-22" value="nome" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="a1a3gFf4tcjDuyw7U2Fl-22" value="nome" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="90" y="590" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="a1a3gFf4tcjDuyw7U2Fl-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="a1a3gFf4tcjDuyw7U2Fl-24" target="a1a3gFf4tcjDuyw7U2Fl-25">
+        <mxCell id="a1a3gFf4tcjDuyw7U2Fl-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="a1a3gFf4tcjDuyw7U2Fl-24" target="a1a3gFf4tcjDuyw7U2Fl-25" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="a1a3gFf4tcjDuyw7U2Fl-24" value="hrs" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="a1a3gFf4tcjDuyw7U2Fl-24" value="hrs" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="90" y="680" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="a1a3gFf4tcjDuyw7U2Fl-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="a1a3gFf4tcjDuyw7U2Fl-25" target="a1a3gFf4tcjDuyw7U2Fl-28">
+        <mxCell id="a1a3gFf4tcjDuyw7U2Fl-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="a1a3gFf4tcjDuyw7U2Fl-25" target="a1a3gFf4tcjDuyw7U2Fl-28" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="a1a3gFf4tcjDuyw7U2Fl-25" value="salario" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="a1a3gFf4tcjDuyw7U2Fl-25" value="salario" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="90" y="780" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="a1a3gFf4tcjDuyw7U2Fl-28" value="Fim" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="a1a3gFf4tcjDuyw7U2Fl-28" value="Fim" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="90" y="880" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="a1a3gFf4tcjDuyw7U2Fl-30" value="&lt;h3 style=&quot;box-sizing: border-box; font-size: 16px; line-height: 22px; font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, system-ui, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, sans-serif; text-align: left; border-radius: 0px !important;&quot;&gt;Exercício 3: Idade em dias&lt;/h3&gt;&lt;h3 style=&quot;box-sizing: border-box; font-size: 16px; line-height: 22px; font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, system-ui, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, sans-serif; text-align: left; border-radius: 0px !important;&quot;&gt;&lt;ul style=&quot;box-sizing: border-box; margin: 12px 0px; list-style: initial; padding-top: revert; padding-right: revert; padding-bottom: revert; padding-left: 32px; font-size: 14px; font-weight: 400; border-radius: 0px !important;&quot;&gt;&lt;li style=&quot;box-sizing: border-box; border-radius: 0px !important;&quot;&gt;Pergunte a idade de uma pessoa em anos.&lt;/li&gt;&lt;li style=&quot;box-sizing: border-box; border-radius: 0px !important;&quot;&gt;Calcule a idade total em dias usando a conversão: 1 ano = 365 dias, 1 mês = 30 dias.&lt;/li&gt;&lt;li style=&quot;box-sizing: border-box; border-radius: 0px !important;&quot;&gt;&lt;span style=&quot;box-sizing: border-box; font-weight: bolder; border-radius: 0px !important;&quot;&gt;Conceitos&lt;/span&gt;: multiplicação, adição.&lt;/li&gt;&lt;/ul&gt;&lt;/h3&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=default;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="a1a3gFf4tcjDuyw7U2Fl-30" value="&lt;h3 style=&quot;box-sizing: border-box; font-size: 16px; line-height: 22px; font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, system-ui, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, sans-serif; text-align: left; border-radius: 0px !important;&quot;&gt;Exercício 3: Idade em dias&lt;/h3&gt;&lt;h3 style=&quot;box-sizing: border-box; font-size: 16px; line-height: 22px; font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, system-ui, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, sans-serif; text-align: left; border-radius: 0px !important;&quot;&gt;&lt;ul style=&quot;box-sizing: border-box; margin: 12px 0px; list-style: initial; padding-top: revert; padding-right: revert; padding-bottom: revert; padding-left: 32px; font-size: 14px; font-weight: 400; border-radius: 0px !important;&quot;&gt;&lt;li style=&quot;box-sizing: border-box; border-radius: 0px !important;&quot;&gt;Pergunte a idade de uma pessoa em anos.&lt;/li&gt;&lt;li style=&quot;box-sizing: border-box; border-radius: 0px !important;&quot;&gt;Calcule a idade total em dias usando a conversão: 1 ano = 365 dias, 1 mês = 30 dias.&lt;/li&gt;&lt;li style=&quot;box-sizing: border-box; border-radius: 0px !important;&quot;&gt;&lt;span style=&quot;box-sizing: border-box; font-weight: bolder; border-radius: 0px !important;&quot;&gt;Conceitos&lt;/span&gt;: multiplicação, adição.&lt;/li&gt;&lt;/ul&gt;&lt;/h3&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=default;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="10" y="1140" width="830" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="a1a3gFf4tcjDuyw7U2Fl-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="a1a3gFf4tcjDuyw7U2Fl-31" target="a1a3gFf4tcjDuyw7U2Fl-32">
+        <mxCell id="a1a3gFf4tcjDuyw7U2Fl-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="a1a3gFf4tcjDuyw7U2Fl-31" target="a1a3gFf4tcjDuyw7U2Fl-32" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="a1a3gFf4tcjDuyw7U2Fl-31" value="Início" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="105" y="1330" width="100" height="40" as="geometry" />
+        <mxCell id="a1a3gFf4tcjDuyw7U2Fl-31" value="Início" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="115" y="1300" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="a1a3gFf4tcjDuyw7U2Fl-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="a1a3gFf4tcjDuyw7U2Fl-32" target="a1a3gFf4tcjDuyw7U2Fl-33">
+        <mxCell id="a1a3gFf4tcjDuyw7U2Fl-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="a1a3gFf4tcjDuyw7U2Fl-32" target="a1a3gFf4tcjDuyw7U2Fl-33" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="a1a3gFf4tcjDuyw7U2Fl-32" value="anoHoje" style="shape=manualInput;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="115" y="1390" width="80" height="60" as="geometry" />
+        <mxCell id="a1a3gFf4tcjDuyw7U2Fl-32" value="anoHoje" style="shape=manualInput;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="125" y="1360" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="a1a3gFf4tcjDuyw7U2Fl-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="a1a3gFf4tcjDuyw7U2Fl-33" target="a1a3gFf4tcjDuyw7U2Fl-34">
+        <mxCell id="a1a3gFf4tcjDuyw7U2Fl-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="a1a3gFf4tcjDuyw7U2Fl-33" target="a1a3gFf4tcjDuyw7U2Fl-34" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="a1a3gFf4tcjDuyw7U2Fl-33" value="mesHoje" style="shape=manualInput;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="115" y="1460" width="80" height="60" as="geometry" />
+        <mxCell id="a1a3gFf4tcjDuyw7U2Fl-33" value="mesHoje" style="shape=manualInput;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="125" y="1430" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="a1a3gFf4tcjDuyw7U2Fl-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="a1a3gFf4tcjDuyw7U2Fl-34" target="a1a3gFf4tcjDuyw7U2Fl-40">
+        <mxCell id="a1a3gFf4tcjDuyw7U2Fl-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="a1a3gFf4tcjDuyw7U2Fl-34" target="a1a3gFf4tcjDuyw7U2Fl-40" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="a1a3gFf4tcjDuyw7U2Fl-34" value="diaHoje" style="shape=manualInput;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="115" y="1540" width="80" height="60" as="geometry" />
+        <mxCell id="a1a3gFf4tcjDuyw7U2Fl-34" value="diaHoje" style="shape=manualInput;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="125" y="1510" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="a1a3gFf4tcjDuyw7U2Fl-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="a1a3gFf4tcjDuyw7U2Fl-40" target="a1a3gFf4tcjDuyw7U2Fl-42">
+        <mxCell id="a1a3gFf4tcjDuyw7U2Fl-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="a1a3gFf4tcjDuyw7U2Fl-40" target="a1a3gFf4tcjDuyw7U2Fl-42" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="a1a3gFf4tcjDuyw7U2Fl-40" value="anoNasc" style="shape=manualInput;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="115" y="1620" width="80" height="60" as="geometry" />
+        <mxCell id="a1a3gFf4tcjDuyw7U2Fl-40" value="anoNasc" style="shape=manualInput;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="125" y="1590" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="a1a3gFf4tcjDuyw7U2Fl-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="a1a3gFf4tcjDuyw7U2Fl-42" target="a1a3gFf4tcjDuyw7U2Fl-44">
+        <mxCell id="a1a3gFf4tcjDuyw7U2Fl-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="a1a3gFf4tcjDuyw7U2Fl-42" target="a1a3gFf4tcjDuyw7U2Fl-44" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="a1a3gFf4tcjDuyw7U2Fl-42" value="mesNasc" style="shape=manualInput;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="115" y="1700" width="80" height="60" as="geometry" />
+        <mxCell id="a1a3gFf4tcjDuyw7U2Fl-42" value="mesNasc" style="shape=manualInput;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="125" y="1670" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="a1a3gFf4tcjDuyw7U2Fl-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="a1a3gFf4tcjDuyw7U2Fl-44" target="a1a3gFf4tcjDuyw7U2Fl-48">
+        <mxCell id="a1a3gFf4tcjDuyw7U2Fl-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="a1a3gFf4tcjDuyw7U2Fl-44" target="a1a3gFf4tcjDuyw7U2Fl-48" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="a1a3gFf4tcjDuyw7U2Fl-44" value="diaHoje" style="shape=manualInput;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="115" y="1780" width="80" height="60" as="geometry" />
+        <mxCell id="a1a3gFf4tcjDuyw7U2Fl-44" value="diaHoje" style="shape=manualInput;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="125" y="1750" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="a1a3gFf4tcjDuyw7U2Fl-48" value="idadeDias &amp;lt;- ((anoHoje - anoNasc) * 365) + (((12 - mesNasc) + mesHoje) * 30) + (((30 - diaNasc) + diaHoje))" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="20" y="1890" width="850" height="160" as="geometry" />
+        <mxCell id="36bbtaY0qwUrf9wniMjc-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="a1a3gFf4tcjDuyw7U2Fl-48" target="36bbtaY0qwUrf9wniMjc-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a1a3gFf4tcjDuyw7U2Fl-48" value="idadeDias &amp;lt;- ((anoHoje - anoNasc) * 365) + (((12 - mesNasc) + mesHoje) * 30) + (((30 - diaNasc) + diaHoje))" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="30" y="1860" width="270" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="36bbtaY0qwUrf9wniMjc-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="36bbtaY0qwUrf9wniMjc-1" target="36bbtaY0qwUrf9wniMjc-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="36bbtaY0qwUrf9wniMjc-1" value="idadeDias" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="115" y="2040" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="36bbtaY0qwUrf9wniMjc-3" value="Fim" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="115" y="2130" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="36bbtaY0qwUrf9wniMjc-5" value="&lt;h3 style=&quot;box-sizing: border-box; font-size: 16px; line-height: 22px; font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, system-ui, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, sans-serif; text-align: left; border-radius: 0px !important;&quot;&gt;Exercício 3: Idade em dias&lt;/h3&gt;&lt;h3 style=&quot;box-sizing: border-box; font-size: 16px; line-height: 22px; font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, system-ui, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, sans-serif; text-align: left; border-radius: 0px !important;&quot;&gt;&lt;ul style=&quot;box-sizing: border-box; margin: 12px 0px; list-style: initial; padding-top: revert; padding-right: revert; padding-bottom: revert; padding-left: 32px; font-size: 14px; font-weight: 400; border-radius: 0px !important;&quot;&gt;&lt;li style=&quot;box-sizing: border-box; border-radius: 0px !important;&quot;&gt;Pergunte a idade de uma pessoa em anos.&lt;/li&gt;&lt;li style=&quot;box-sizing: border-box; border-radius: 0px !important;&quot;&gt;Calcule a idade total em dias usando a conversão: 1 ano = 365 dias, 1 mês = 30 dias.&lt;/li&gt;&lt;li style=&quot;box-sizing: border-box; border-radius: 0px !important;&quot;&gt;&lt;span style=&quot;box-sizing: border-box; font-weight: bolder; border-radius: 0px !important;&quot;&gt;Conceitos&lt;/span&gt;: multiplicação, adição.&lt;/li&gt;&lt;/ul&gt;&lt;/h3&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=default;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="10" y="2230" width="830" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
