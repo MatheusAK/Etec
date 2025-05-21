@@ -16,7 +16,7 @@
         <mxCell id="18WC10lnvHGb9KURgrPZ-5" value="num &amp;lt; 0" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="195" y="420" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="18WC10lnvHGb9KURgrPZ-6" value="Positivo" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="18WC10lnvHGb9KURgrPZ-6" value="&quot;Positivo&quot;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="55" y="660" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="18WC10lnvHGb9KURgrPZ-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="18WC10lnvHGb9KURgrPZ-7" target="18WC10lnvHGb9KURgrPZ-8">
@@ -43,10 +43,10 @@
         <mxCell id="18WC10lnvHGb9KURgrPZ-13" value="positivo &amp;lt;- num" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="20" y="560" width="170" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="18WC10lnvHGb9KURgrPZ-16" value="negativo" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="18WC10lnvHGb9KURgrPZ-16" value="&quot;Negativo&quot;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="340" y="660" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="18WC10lnvHGb9KURgrPZ-18" value="Início" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="18WC10lnvHGb9KURgrPZ-18" value="Fim" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="205" y="740" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="18WC10lnvHGb9KURgrPZ-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="18WC10lnvHGb9KURgrPZ-16" target="18WC10lnvHGb9KURgrPZ-18">
@@ -54,6 +54,57 @@
         </mxCell>
         <mxCell id="18WC10lnvHGb9KURgrPZ-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="18WC10lnvHGb9KURgrPZ-6" target="18WC10lnvHGb9KURgrPZ-18">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="18WC10lnvHGb9KURgrPZ-22" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;2 - Faça um pseudocódigo e um diagrama de blocos que leia a idade de uma pessoa. Se a idade for maior ou igual a 18 anos, escreva &quot;Você é maior de idade&quot;.&lt;/h1&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="1110" width="550" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="18WC10lnvHGb9KURgrPZ-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="18WC10lnvHGb9KURgrPZ-23" target="18WC10lnvHGb9KURgrPZ-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="18WC10lnvHGb9KURgrPZ-23" value="Início" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="105" y="1300" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="18WC10lnvHGb9KURgrPZ-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="18WC10lnvHGb9KURgrPZ-24" target="18WC10lnvHGb9KURgrPZ-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="18WC10lnvHGb9KURgrPZ-24" value="idade" style="shape=manualInput;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="115" y="1400" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="18WC10lnvHGb9KURgrPZ-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="18WC10lnvHGb9KURgrPZ-26" target="18WC10lnvHGb9KURgrPZ-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="18WC10lnvHGb9KURgrPZ-26" value="idade &amp;gt;=&lt;div&gt;&amp;nbsp;18&amp;nbsp;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="105" y="1510" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="18WC10lnvHGb9KURgrPZ-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="18WC10lnvHGb9KURgrPZ-30" target="18WC10lnvHGb9KURgrPZ-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="18WC10lnvHGb9KURgrPZ-30" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&quot;Você é maior de idade&quot;&lt;/span&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="105" y="1650" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="18WC10lnvHGb9KURgrPZ-33" value="Início" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="105" y="1740" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="18WC10lnvHGb9KURgrPZ-35" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;3 - Ler um número e verificar se ele é par ou ímpar. Quando for par armazenar esse valor na variável PAR, e quando for ímpar armazenar na variável IMPAR. Exibir P e I no final do processamento. Fazer pseudocódigo e diagrama de blocos&lt;/h1&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="115" y="2230" width="550" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="18WC10lnvHGb9KURgrPZ-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="18WC10lnvHGb9KURgrPZ-36" target="18WC10lnvHGb9KURgrPZ-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="18WC10lnvHGb9KURgrPZ-36" value="Início" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="340" y="2460" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="18WC10lnvHGb9KURgrPZ-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="18WC10lnvHGb9KURgrPZ-37" target="18WC10lnvHGb9KURgrPZ-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="18WC10lnvHGb9KURgrPZ-37" value="num" style="shape=manualInput;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="2550" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="18WC10lnvHGb9KURgrPZ-39" value="num mod 2 = 0" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="340" y="2670" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="18WC10lnvHGb9KURgrPZ-41" value="negativo &amp;lt;- num" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="315" y="570" width="170" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
