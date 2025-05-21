@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="27.0.6">
   <diagram name="Page-1" id="vwzElEV9mMVuuLXDs1yB">
-    <mxGraphModel dx="1426" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2037" dy="1061" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -82,52 +82,107 @@
         <mxCell id="18WC10lnvHGb9KURgrPZ-30" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&quot;Você é maior de idade&quot;&lt;/span&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="105" y="1650" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="18WC10lnvHGb9KURgrPZ-33" value="Início" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="18WC10lnvHGb9KURgrPZ-33" value="Fim" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="105" y="1740" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="18WC10lnvHGb9KURgrPZ-35" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;3 - Ler um número e verificar se ele é par ou ímpar. Quando for par armazenar esse valor na variável PAR, e quando for ímpar armazenar na variável IMPAR. Exibir P e I no final do processamento. Fazer pseudocódigo e diagrama de blocos&lt;/h1&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="18WC10lnvHGb9KURgrPZ-35" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;3 - Ler um número e verificar se ele é par ou ímpar. Quando for par armazenar esse valor na variável PAR, e quando for ímpar armazenar na variável IMPAR. Exibir Par e Impar no final do processamento. Fazer pseudocódigo e diagrama de blocos&lt;/h1&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="115" y="2230" width="550" height="200" as="geometry" />
         </mxCell>
         <mxCell id="18WC10lnvHGb9KURgrPZ-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="18WC10lnvHGb9KURgrPZ-36" target="18WC10lnvHGb9KURgrPZ-37">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="18WC10lnvHGb9KURgrPZ-36" value="Início" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="340" y="2460" width="100" height="60" as="geometry" />
+          <mxGeometry x="195" y="2420" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="18WC10lnvHGb9KURgrPZ-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="18WC10lnvHGb9KURgrPZ-37" target="18WC10lnvHGb9KURgrPZ-39">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="18WC10lnvHGb9KURgrPZ-37" value="num" style="shape=manualInput;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="2550" width="80" height="80" as="geometry" />
+          <mxGeometry x="205" y="2510" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="18WC10lnvHGb9KURgrPZ-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="18WC10lnvHGb9KURgrPZ-39" target="18WC10lnvHGb9KURgrPZ-41">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="18WC10lnvHGb9KURgrPZ-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="18WC10lnvHGb9KURgrPZ-39">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="240" y="2780" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="18WC10lnvHGb9KURgrPZ-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="18WC10lnvHGb9KURgrPZ-39" target="18WC10lnvHGb9KURgrPZ-44">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="18WC10lnvHGb9KURgrPZ-39" value="num mod 2 = 0" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="340" y="2670" width="100" height="100" as="geometry" />
+          <mxGeometry x="195" y="2630" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="18WC10lnvHGb9KURgrPZ-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="18WC10lnvHGb9KURgrPZ-41" target="18WC10lnvHGb9KURgrPZ-48">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="18WC10lnvHGb9KURgrPZ-41" value="par &amp;lt;- num" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="450" y="2790" width="170" height="70" as="geometry" />
+          <mxGeometry x="305" y="2720" width="170" height="70" as="geometry" />
         </mxCell>
         <mxCell id="18WC10lnvHGb9KURgrPZ-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="18WC10lnvHGb9KURgrPZ-44" target="18WC10lnvHGb9KURgrPZ-46">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="18WC10lnvHGb9KURgrPZ-44" value="impar &amp;lt;- num" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="160" y="2790" width="170" height="70" as="geometry" />
+          <mxGeometry x="15" y="2720" width="170" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="18WC10lnvHGb9KURgrPZ-46" value="&quot;I&quot;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="195" y="2920" width="100" height="60" as="geometry" />
+        <mxCell id="18WC10lnvHGb9KURgrPZ-46" value="&quot;mparI&quot;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="50" y="2820" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="18WC10lnvHGb9KURgrPZ-48" value="&quot;P&quot;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="485" y="2920" width="100" height="60" as="geometry" />
+        <mxCell id="18WC10lnvHGb9KURgrPZ-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="18WC10lnvHGb9KURgrPZ-48" target="18WC10lnvHGb9KURgrPZ-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="18WC10lnvHGb9KURgrPZ-48" value="&quot;Par&quot;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="340" y="2820" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="18WC10lnvHGb9KURgrPZ-50" value="Fim" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="185" y="2890" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="18WC10lnvHGb9KURgrPZ-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="18WC10lnvHGb9KURgrPZ-46" target="18WC10lnvHGb9KURgrPZ-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="18WC10lnvHGb9KURgrPZ-54" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;4 - Crie um algoritmo em pseudocódigo e diagrama de blocos que leia a idade de uma pessoa e informe a sua classe eleitoral: Não eleitor(abaixo de 16 anos); eleitor obrigatório (entre 18 e 65) eleitor facultativo (de 16 a 17 e maior que 65 anos).&lt;/h1&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="3310" width="550" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="18WC10lnvHGb9KURgrPZ-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="18WC10lnvHGb9KURgrPZ-55" target="18WC10lnvHGb9KURgrPZ-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="18WC10lnvHGb9KURgrPZ-55" value="Início" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="340" y="3630" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="18WC10lnvHGb9KURgrPZ-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="18WC10lnvHGb9KURgrPZ-57" target="18WC10lnvHGb9KURgrPZ-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="18WC10lnvHGb9KURgrPZ-57" value="idade" style="shape=manualInput;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="3720" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="18WC10lnvHGb9KURgrPZ-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="18WC10lnvHGb9KURgrPZ-60" target="18WC10lnvHGb9KURgrPZ-71">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="290" y="3960" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="18WC10lnvHGb9KURgrPZ-60" value="idade &amp;lt; 16 ou idade &amp;gt; 65" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="340" y="3870" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="18WC10lnvHGb9KURgrPZ-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="18WC10lnvHGb9KURgrPZ-60" target="18WC10lnvHGb9KURgrPZ-73">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="550" y="3940" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="18WC10lnvHGb9KURgrPZ-71" value="idade &amp;lt;= 17" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="185" y="3940" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="18WC10lnvHGb9KURgrPZ-73" value="&quot;Não eleitor&quot;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="720" y="3980" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="18WC10lnvHGb9KURgrPZ-76" value="&quot;Eleitor facultativo&quot;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="510" y="4060" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="18WC10lnvHGb9KURgrPZ-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="18WC10lnvHGb9KURgrPZ-71" target="18WC10lnvHGb9KURgrPZ-76">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="18WC10lnvHGb9KURgrPZ-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="18WC10lnvHGb9KURgrPZ-71">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="130" y="4080" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="18WC10lnvHGb9KURgrPZ-80" value="&quot;Eleitor facultativo&quot;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="80" y="4090" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
