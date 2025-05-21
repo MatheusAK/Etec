@@ -100,11 +100,34 @@
         <mxCell id="18WC10lnvHGb9KURgrPZ-37" value="num" style="shape=manualInput;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="2550" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="18WC10lnvHGb9KURgrPZ-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="18WC10lnvHGb9KURgrPZ-39" target="18WC10lnvHGb9KURgrPZ-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="18WC10lnvHGb9KURgrPZ-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="18WC10lnvHGb9KURgrPZ-39">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="2780" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="18WC10lnvHGb9KURgrPZ-39" value="num mod 2 = 0" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="340" y="2670" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="18WC10lnvHGb9KURgrPZ-41" value="negativo &amp;lt;- num" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="315" y="570" width="170" height="70" as="geometry" />
+        <mxCell id="18WC10lnvHGb9KURgrPZ-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="18WC10lnvHGb9KURgrPZ-41" target="18WC10lnvHGb9KURgrPZ-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="18WC10lnvHGb9KURgrPZ-41" value="par &amp;lt;- num" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="450" y="2790" width="170" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="18WC10lnvHGb9KURgrPZ-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="18WC10lnvHGb9KURgrPZ-44" target="18WC10lnvHGb9KURgrPZ-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="18WC10lnvHGb9KURgrPZ-44" value="impar &amp;lt;- num" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="160" y="2790" width="170" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="18WC10lnvHGb9KURgrPZ-46" value="&quot;I&quot;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="195" y="2920" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="18WC10lnvHGb9KURgrPZ-48" value="&quot;P&quot;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="485" y="2920" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
