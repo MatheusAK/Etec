@@ -14,40 +14,40 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="18WC10lnvHGb9KURgrPZ-5" value="num &amp;lt; 0" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="235" y="420" width="100" height="100" as="geometry" />
+          <mxGeometry x="195" y="420" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="18WC10lnvHGb9KURgrPZ-6" value="Positivo" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="45" y="790" width="100" height="60" as="geometry" />
+          <mxGeometry x="55" y="660" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="18WC10lnvHGb9KURgrPZ-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="18WC10lnvHGb9KURgrPZ-7" target="18WC10lnvHGb9KURgrPZ-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="18WC10lnvHGb9KURgrPZ-7" value="Início" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="235" y="230" width="100" height="60" as="geometry" />
+          <mxGeometry x="195" y="230" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="18WC10lnvHGb9KURgrPZ-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="18WC10lnvHGb9KURgrPZ-8" target="18WC10lnvHGb9KURgrPZ-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="18WC10lnvHGb9KURgrPZ-8" value="num" style="shape=manualInput;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="245" y="320" width="80" height="80" as="geometry" />
+          <mxGeometry x="205" y="320" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="18WC10lnvHGb9KURgrPZ-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="18WC10lnvHGb9KURgrPZ-11" target="18WC10lnvHGb9KURgrPZ-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="18WC10lnvHGb9KURgrPZ-11" value="negativo &amp;lt;- num" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="420" y="630" width="170" height="70" as="geometry" />
+          <mxGeometry x="305" y="560" width="170" height="70" as="geometry" />
         </mxCell>
         <mxCell id="18WC10lnvHGb9KURgrPZ-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="18WC10lnvHGb9KURgrPZ-13" target="18WC10lnvHGb9KURgrPZ-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="18WC10lnvHGb9KURgrPZ-13" value="positivo &amp;lt;- num" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="10" y="630" width="170" height="70" as="geometry" />
+          <mxGeometry x="20" y="560" width="170" height="70" as="geometry" />
         </mxCell>
         <mxCell id="18WC10lnvHGb9KURgrPZ-16" value="negativo" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="455" y="790" width="100" height="60" as="geometry" />
+          <mxGeometry x="340" y="660" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="18WC10lnvHGb9KURgrPZ-18" value="Início" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="245" y="920" width="100" height="60" as="geometry" />
+          <mxGeometry x="205" y="740" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="18WC10lnvHGb9KURgrPZ-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="18WC10lnvHGb9KURgrPZ-16" target="18WC10lnvHGb9KURgrPZ-18">
           <mxGeometry relative="1" as="geometry" />
