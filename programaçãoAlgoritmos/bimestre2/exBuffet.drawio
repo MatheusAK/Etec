@@ -81,14 +81,26 @@
         <mxCell id="kS9kcs_yrtDZrmXysHUf-29" value="qtdCarne" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="97.75" y="1880" width="114.5" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="kS9kcs_yrtDZrmXysHUf-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kS9kcs_yrtDZrmXysHUf-31" target="kS9kcs_yrtDZrmXysHUf-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="kS9kcs_yrtDZrmXysHUf-31" value="qtdBebida" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="90" y="2080" width="114.5" height="40" as="geometry" />
+          <mxGeometry x="97.75" y="2000" width="114.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="kS9kcs_yrtDZrmXysHUf-33" value="qtdBebida" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="97.75" y="2140" width="114.5" height="40" as="geometry" />
+          <mxGeometry x="97.75" y="2120" width="114.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kS9kcs_yrtDZrmXysHUf-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kS9kcs_yrtDZrmXysHUf-35" target="kS9kcs_yrtDZrmXysHUf-31">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kS9kcs_yrtDZrmXysHUf-35" value="qtdCarne * 0.08" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="97.75" y="1940" width="114.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kS9kcs_yrtDZrmXysHUf-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kS9kcs_yrtDZrmXysHUf-38" target="kS9kcs_yrtDZrmXysHUf-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kS9kcs_yrtDZrmXysHUf-38" value="qtdBebida * 0.12" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="97.75" y="2060" width="114.5" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
