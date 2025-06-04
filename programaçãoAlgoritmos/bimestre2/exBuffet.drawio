@@ -1,17 +1,17 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="27.1.3">
   <diagram name="Page-1" id="AU6ZhvNn1BWEqoQLjiyR">
-    <mxGraphModel dx="983" dy="512" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1678" dy="874" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="kS9kcs_yrtDZrmXysHUf-3" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Pseudocódigo&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=20;align=center;" vertex="1" parent="1">
           <mxGeometry x="225.5" y="30" width="330" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="kS9kcs_yrtDZrmXysHUf-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kS9kcs_yrtDZrmXysHUf-4" target="kS9kcs_yrtDZrmXysHUf-6">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="kS9kcs_yrtDZrmXysHUf-4" value="Fim" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="340.5" y="2120" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="kS9kcs_yrtDZrmXysHUf-4" value="Início" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="350" y="1150" width="100" height="60" as="geometry" />
+        <mxCell id="kS9kcs_yrtDZrmXysHUf-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kS9kcs_yrtDZrmXysHUf-5" target="kS9kcs_yrtDZrmXysHUf-4">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kS9kcs_yrtDZrmXysHUf-5" value="&quot;Quantidade de convidados insuficiente!&quot;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="610" y="1470" width="190" height="70" as="geometry" />
@@ -43,64 +43,67 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kS9kcs_yrtDZrmXysHUf-15" value="qtdCarne &amp;lt;- 0.3 * pessoas" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="70" y="1475" width="170" height="45" as="geometry" />
+          <mxGeometry x="70" y="1440" width="170" height="45" as="geometry" />
         </mxCell>
         <mxCell id="kS9kcs_yrtDZrmXysHUf-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kS9kcs_yrtDZrmXysHUf-17" target="kS9kcs_yrtDZrmXysHUf-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kS9kcs_yrtDZrmXysHUf-17" value="qtdCarne &amp;lt;- qtdCarne + (qtdCarne * 0.08)" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="70" y="1540" width="170" height="45" as="geometry" />
+          <mxGeometry x="70" y="1505" width="170" height="45" as="geometry" />
         </mxCell>
         <mxCell id="kS9kcs_yrtDZrmXysHUf-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kS9kcs_yrtDZrmXysHUf-19" target="kS9kcs_yrtDZrmXysHUf-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kS9kcs_yrtDZrmXysHUf-19" value="qtdBebida &amp;lt;- 1.5 * pessoas" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="70" y="1610" width="170" height="45" as="geometry" />
+          <mxGeometry x="70" y="1575" width="170" height="45" as="geometry" />
         </mxCell>
         <mxCell id="kS9kcs_yrtDZrmXysHUf-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kS9kcs_yrtDZrmXysHUf-21" target="kS9kcs_yrtDZrmXysHUf-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kS9kcs_yrtDZrmXysHUf-21" value="&amp;nbsp;qtdBebida &amp;lt;- qtdBebida + (qtdBebida * 0.12)" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="70" y="1680" width="170" height="45" as="geometry" />
+          <mxGeometry x="70" y="1645" width="170" height="45" as="geometry" />
         </mxCell>
         <mxCell id="kS9kcs_yrtDZrmXysHUf-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kS9kcs_yrtDZrmXysHUf-22" target="kS9kcs_yrtDZrmXysHUf-27">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kS9kcs_yrtDZrmXysHUf-22" value="qtdSobremesa &amp;lt;- pessoas" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="70" y="1750" width="170" height="45" as="geometry" />
+          <mxGeometry x="70" y="1715" width="170" height="45" as="geometry" />
         </mxCell>
         <mxCell id="kS9kcs_yrtDZrmXysHUf-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kS9kcs_yrtDZrmXysHUf-27" target="kS9kcs_yrtDZrmXysHUf-29">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kS9kcs_yrtDZrmXysHUf-27" value="pessoas" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="97.75" y="1820" width="114.5" height="40" as="geometry" />
+          <mxGeometry x="97.75" y="1785" width="114.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="kS9kcs_yrtDZrmXysHUf-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kS9kcs_yrtDZrmXysHUf-29" target="kS9kcs_yrtDZrmXysHUf-35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kS9kcs_yrtDZrmXysHUf-29" value="qtdCarne" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="97.75" y="1880" width="114.5" height="40" as="geometry" />
+          <mxGeometry x="97.75" y="1845" width="114.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="kS9kcs_yrtDZrmXysHUf-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kS9kcs_yrtDZrmXysHUf-31" target="kS9kcs_yrtDZrmXysHUf-38">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kS9kcs_yrtDZrmXysHUf-31" value="qtdBebida" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="97.75" y="2000" width="114.5" height="40" as="geometry" />
+          <mxGeometry x="97.75" y="1965" width="114.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kS9kcs_yrtDZrmXysHUf-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kS9kcs_yrtDZrmXysHUf-33" target="kS9kcs_yrtDZrmXysHUf-4">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kS9kcs_yrtDZrmXysHUf-33" value="qtdBebida" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="97.75" y="2120" width="114.5" height="40" as="geometry" />
+          <mxGeometry x="97.75" y="2085" width="114.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="kS9kcs_yrtDZrmXysHUf-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kS9kcs_yrtDZrmXysHUf-35" target="kS9kcs_yrtDZrmXysHUf-31">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kS9kcs_yrtDZrmXysHUf-35" value="qtdCarne * 0.08" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="97.75" y="1940" width="114.5" height="40" as="geometry" />
+          <mxGeometry x="97.75" y="1905" width="114.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="kS9kcs_yrtDZrmXysHUf-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kS9kcs_yrtDZrmXysHUf-38" target="kS9kcs_yrtDZrmXysHUf-33">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kS9kcs_yrtDZrmXysHUf-38" value="qtdBebida * 0.12" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="97.75" y="2060" width="114.5" height="40" as="geometry" />
+          <mxGeometry x="97.75" y="2025" width="114.5" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
